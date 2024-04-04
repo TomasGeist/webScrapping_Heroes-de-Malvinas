@@ -1,6 +1,15 @@
 # App scrapper de tabla Héroes de Malvinas.
 En este repositorio se desarrolla una aplicación que utiliza la librería [HtmlAgilityPack](https://html-agility-pack.net/). para hacer un scrapping de una tabla que contiene los datos de los Héroes que combatieron y Malvinas y Veteranos de Guerra.
 
+---------
+## Índice
+
+- [Clases y metodos utilizados de Html Agility Pack](#clases-y-metodos-utilizados-de-html-agility-pack)
+- [Clases y metodos utilizados de .NET](#clases-y-metodos-utilizados-de-.net)
+- [Funcionamiento del codigo](#funcionamiento-del-codigo)
+- [Linq](#linq) 
+
+-------------
 ## Clases y metodos utilizados de Html Agility Pack
 <details open>
 <summary>Breve introducción a la librería</summary>
